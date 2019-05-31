@@ -1,2 +1,2 @@
-#is-valid-npi
+# is-valid-npi
 This repository contains the files necessary to implement the IsValidNPI function on Teradata Vantage solution on the CMS IDR platform. The function uses an algoritm made available to the public domain by [Claredi](www.claredi.com) in January of 2004. The algorithm validates the NPI Luhn check-digit is correct. It returns 1 for a valid check-digit, otherwise 0.
